@@ -1,1 +1,1 @@
-# proyecto-semestral-desafios
+# proyecto semestral desafios
